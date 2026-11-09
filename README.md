@@ -13,7 +13,9 @@ The I2C LCD prompts for a PIN, in which the user types in a 4-digit PIN in the k
 - **Software:** Arduino IDE
 
 ### Cool Features
-- 
+- Lockdown/anti-breach system
+- * Key on Keypad to clear
+- Lockdown time escalation
 
 ---
 
@@ -82,7 +84,7 @@ Watch the project in action + an explanation of the build:
 
 ## 💡 What I Learned
 
-I learned to add sound and incorporate real-life mini versions of instruments into my projects. 
+I learned to use the 4x4 Membrane Switch (keypad) and learned to incorporate it into security systems.
 
 ---
 
