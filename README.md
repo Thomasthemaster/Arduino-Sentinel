@@ -14,7 +14,7 @@ The I2C LCD prompts for a PIN, in which the user types in a 4-digit PIN in the k
 
 ### Cool Features
 - Lockdown/anti-breach system
-- * Key on Keypad to clear
+- Ability to clear using "*" on the keypad
 - Lockdown time escalation
 
 ---
