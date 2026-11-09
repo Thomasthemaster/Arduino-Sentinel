@@ -26,7 +26,7 @@ int littleDelay = 25;
 
 byte position = 0;
 char enteredPIN[5];
-char correctPIN[5] = "0000";
+char correctPIN[5] = "0000";   // Placeholder- change to your desired pin
 
 // Number of rows and columns
 const byte ROWS = 4;
